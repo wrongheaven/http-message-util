@@ -1,6 +1,7 @@
 <?php
+declare(strict_types=1);
 
-namespace Fig\Http\Message;
+namespace WrongHeaven\Http\Message;
 
 /**
  * Defines constants for common HTTP status code.
